@@ -1,9 +1,10 @@
 package controllers
 
 import (
-	"go-api-questdb/models"
 	"net/http"
 	"time"
+
+	"github.com/arifintahu/go-api-questdb/models"
 
 	"github.com/gin-gonic/gin"
 )

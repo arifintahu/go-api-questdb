@@ -1,9 +1,10 @@
 package main
 
 import (
-	"go-api-questdb/controllers"
-	"go-api-questdb/models"
 	"os"
+
+	"github.com/arifintahu/go-api-questdb/controllers"
+	"github.com/arifintahu/go-api-questdb/models"
 
 	"github.com/gin-gonic/gin"
 	_ "github.com/joho/godotenv/autoload"

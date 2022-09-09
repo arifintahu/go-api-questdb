@@ -1,4 +1,4 @@
-module go-api-questdb
+module github.com/arifintahu/go-api-questdb
 
 go 1.18
 
